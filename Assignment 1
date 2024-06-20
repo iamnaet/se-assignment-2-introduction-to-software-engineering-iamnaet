@@ -1,0 +1,20 @@
+Define Software Engineering:
+Software Engineering is the systematic process of designing, developing, testing, and maintaining software. It aims to create high-quality, reliable, and maintainable software systems.
+Unlike traditional programming, which focuses on writing code, software engineering encompasses a broader set of activities, including requirements analysis, design, testing, and ongoing maintenance1.
+Software Development Life Cycle (SDLC):
+The SDLC consists of several phases:
+Requirements Gathering: Understanding user needs and defining system requirements.
+System Design: Creating a high-level design, architecture, and data models.
+Implementation (Coding): Writing the actual code based on the design.
+Testing: Verifying that the software meets requirements and identifying defects.
+Deployment: Installing the software in the production environment.
+Maintenance: Enhancing, fixing, and adapting the software over time1.
+Agile vs. Waterfall Models:
+Agile:
+Iterative and flexible approach.
+Emphasizes collaboration, adaptability, and customer feedback.
+Suits dynamic projects with changing requirements.
+Waterfall:
+Sequential and rigid approach.
+Phases follow a linear order (requirements, design, implementation, testing, deployment).
+Suitable
